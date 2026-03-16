@@ -21,6 +21,6 @@ public class Personne {
 }
 public void main(String[] args){
     Personne per1 = new Personne();
-    per1.initialiser("HH90505", "Saad", "Hossainy", "hosss@gmail.com", 20);
+    per1.initialiser("HH7890", "Houmam", "EL BADRA", "h.elbadra3852@gmail.com", 20);
     per1.afficher();
 }
